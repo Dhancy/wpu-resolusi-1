@@ -7,3 +7,4 @@ RENCANA BARU
 - Saya ingin mempunyai pekerjaan yang enak
 - Saya ingin Bekerja diluar negri
 - Saya ingin belajar menjadi laki laki sukses ~makmur
+- Saya Ingin mendalami framework laravel ~makmur
