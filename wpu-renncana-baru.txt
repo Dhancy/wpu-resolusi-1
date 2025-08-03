@@ -6,3 +6,4 @@ RENCANA BARU
 - Saya ingin mempunyai rumah
 - Saya ingin mempunyai pekerjaan yang enak
 - Saya ingin Bekerja diluar negri
+- Saya Ingin menguasai laravel sepenuhnya
